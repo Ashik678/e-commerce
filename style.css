@@ -1,0 +1,27 @@
+.details{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    padding: 15px 25px;
+}
+.phone{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    padding: 15px 25px;
+}
+.container32{
+    height: 200px;
+    background-color: darkkhaki;
+    border-radius: 10px;
+}
+.box{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 15px 25px;
+}
+footer{
+    text-align: center;
+}
